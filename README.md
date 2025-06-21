@@ -1,8 +1,8 @@
 # Phaser Dude Game ![dude](public/assets/dude.png)
 
-A simple platformer game built with Phaser 3.
+Un sencillo juego web desarrollado con Phaser 3.
 
-- To play, press the left and right arrow keys to move, and the spacebar to jump.
-- To restart the game refresh the page with `CTRL + R` or `CMD + R`.
+- Pulsa las flechas para moverte y saltar.
+- Para reiniciar el juego, actualiza la página con `CTRL + R` o `CMD + R`.
 
-[Click here to play](https://nemoartdev.github.io/phaser-dude-game/)
+[Haz clic aquí para jugar](https://nemoartdev.github.io/phaser-dude-game/)
